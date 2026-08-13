@@ -1,0 +1,13 @@
+.env
+venv/
+.venv/
+__pycache__/
+*.db
+!data/analytics.db
+telemetry.db*
+data/chroma_persist/
+.DS_Store
+node_modules/
+tailwindcss.exe
+implementation_plan.md
+data/telemetry/

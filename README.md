@@ -71,6 +71,8 @@ Results stream back to the UI via Server-Sent Events. You see the SQL preview, c
 Any result set can be exported as a CSV with one click.
 
 ---
+<img width="1915" height="946" alt="image" src="https://github.com/user-attachments/assets/eb1f96f1-b99e-4978-be29-c7be0cd01233" />
+
 
 ## How to Run It
 
